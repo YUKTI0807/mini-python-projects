@@ -1,5 +1,5 @@
 # mini-python-projects
-## Simple Calculator
+## 1.Simple Calculator
 - This is a basic Python program where:
 - You enter two numbers
 - Choose an operator (+ , - , * , /)
