@@ -15,3 +15,10 @@
 - At the end, it shows how many attempts you took
 - <img width="312" height="245" alt="image" src="https://github.com/user-attachments/assets/a9cc06ea-43ce-4eb6-85ae-52c2d6d42c40" />
 
+## 3.Basic To-Do List (Console App)
+- This is a simple Python To-Do List app that runs in the console.
+- You can Add, View, and Delete tasks
+- Tasks are stored in a list while the program is running
+- Type exit to close the program
+- (Extra challenge) You can improve it by saving tasks to a file so they stay even after closing
+- <img width="565" height="626" alt="image" src="https://github.com/user-attachments/assets/8ec921a1-bc46-4761-80d4-645c15ea2275" />
