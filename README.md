@@ -13,6 +13,7 @@
 - You keep guessing until you get it right
 - It tells you if your guess is Too High or Too Low
 - At the end, it shows how many attempts you took
+
   <img width="312" height="245" alt="image" src="https://github.com/user-attachments/assets/a9cc06ea-43ce-4eb6-85ae-52c2d6d42c40" />
 
 ## 3.Basic To-Do List (Console App)
