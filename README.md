@@ -26,7 +26,7 @@
   
   <img width="565" height="626" alt="image" src="https://github.com/user-attachments/assets/8ec921a1-bc46-4761-80d4-645c15ea2275" />
 
-## Unit Converter 🔄
+## Unit Converter
 - A simple Python program to convert between:
 - Temperature → °C ↔ °F
 - Weight → kg ↔ lbs
@@ -35,3 +35,10 @@
   
   <img width="447" height="132" alt="Screenshot 2025-09-19 201351" src="https://github.com/user-attachments/assets/64e3f77c-f4de-43ad-9d57-0aa9b51dd096" />
 
+## Digital Clock
+- A simple Python Digital Clock built with Tkinter.
+- Shows live time in HH:MM:SS AM/PM format
+- Displays current date
+- Updates automatically every second
+
+  <img width="576" height="211" alt="image" src="https://github.com/user-attachments/assets/ae35c2f3-d8fb-4aa2-924f-27152f02222b" />
