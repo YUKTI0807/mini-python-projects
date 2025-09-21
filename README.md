@@ -49,5 +49,5 @@
 - Asks questions one by one and checks if the user's answer is correct.
 - Keeps track of the user's score throughout the game.
 - Displays the final score at the end of the quiz.
-- 
+  
 <img width="503" height="761" alt="image" src="https://github.com/user-attachments/assets/4f2e500e-c15b-4a32-a660-5970c53fee4a" />
