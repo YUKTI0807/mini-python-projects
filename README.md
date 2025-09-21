@@ -42,3 +42,12 @@
 - Updates automatically every second
 
   <img width="576" height="211" alt="image" src="https://github.com/user-attachments/assets/ae35c2f3-d8fb-4aa2-924f-27152f02222b" />
+
+## Quiz Game
+- A simple Python Quiz Game built using dictionaries and loops.
+- Stores questions and multiple-choice answers in a dictionary.
+- Asks questions one by one and checks if the user's answer is correct.
+- Keeps track of the user's score throughout the game.
+- Displays the final score at the end of the quiz.
+- 
+<img width="503" height="761" alt="image" src="https://github.com/user-attachments/assets/4f2e500e-c15b-4a32-a660-5970c53fee4a" />
