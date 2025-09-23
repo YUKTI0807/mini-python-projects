@@ -51,3 +51,14 @@
 - Displays the final score at the end of the quiz.
   
 <img width="503" height="761" alt="image" src="https://github.com/user-attachments/assets/4f2e500e-c15b-4a32-a660-5970c53fee4a" />
+
+## Mini Chatbot
+- A basic Python chatbot using dictionaries and conditional logic.
+- Stores questions & responses in a dictionary
+- Matches user input to keys and returns the corresponding response
+- Handles unknown inputs with a default message
+- Can be expanded with more responses or NLP libraries for smarter replies
+
+  <img width="614" height="215" alt="image" src="https://github.com/user-attachments/assets/f89a4179-515c-41f4-9a0a-37e7ba486868" />
+
+
