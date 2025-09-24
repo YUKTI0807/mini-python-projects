@@ -61,4 +61,13 @@
 
   <img width="614" height="215" alt="image" src="https://github.com/user-attachments/assets/f89a4179-515c-41f4-9a0a-37e7ba486868" />
 
+## Password Generator
+- A simple Python Password Generator built using the random and string modules.
+- Asks the user for the desired password length
+- Generates a password using a combination of letters, digits, and symbols
+- Gives the user the choice of password strength (weak, medium, strong)
+- Displays the generated password
+- Extra challenge: Add an option to copy the password automatically to the clipboard for easy use.
+
+  <img width="398" height="173" alt="image" src="https://github.com/user-attachments/assets/7689074b-bf2d-47a3-8b31-489d52dd285d" />
 
