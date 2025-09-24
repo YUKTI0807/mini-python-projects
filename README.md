@@ -26,7 +26,7 @@
   
   <img width="565" height="626" alt="image" src="https://github.com/user-attachments/assets/8ec921a1-bc46-4761-80d4-645c15ea2275" />
 
-## Unit Converter
+## 4.Unit Converter
 - A simple Python program to convert between:
 - Temperature → °C ↔ °F
 - Weight → kg ↔ lbs
@@ -35,7 +35,7 @@
   
   <img width="447" height="132" alt="Screenshot 2025-09-19 201351" src="https://github.com/user-attachments/assets/64e3f77c-f4de-43ad-9d57-0aa9b51dd096" />
 
-## Digital Clock
+## 5.Digital Clock
 - A simple Python Digital Clock built with Tkinter.
 - Shows live time in HH:MM:SS AM/PM format
 - Displays current date
@@ -43,7 +43,7 @@
 
   <img width="576" height="211" alt="image" src="https://github.com/user-attachments/assets/ae35c2f3-d8fb-4aa2-924f-27152f02222b" />
 
-## Quiz Game
+## 6.Quiz Game
 - A simple Python Quiz Game built using dictionaries and loops.
 - Stores questions and multiple-choice answers in a dictionary.
 - Asks questions one by one and checks if the user's answer is correct.
@@ -52,7 +52,7 @@
   
 <img width="503" height="761" alt="image" src="https://github.com/user-attachments/assets/4f2e500e-c15b-4a32-a660-5970c53fee4a" />
 
-## Mini Chatbot
+## 7.Mini Chatbot
 - A basic Python chatbot using dictionaries and conditional logic.
 - Stores questions & responses in a dictionary
 - Matches user input to keys and returns the corresponding response
@@ -61,7 +61,7 @@
 
   <img width="614" height="215" alt="image" src="https://github.com/user-attachments/assets/f89a4179-515c-41f4-9a0a-37e7ba486868" />
 
-## Password Generator
+## 8.Password Generator
 - A simple Python Password Generator built using the random and string modules.
 - Asks the user for the desired password length
 - Generates a password using a combination of letters, digits, and symbols
