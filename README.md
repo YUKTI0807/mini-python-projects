@@ -82,7 +82,7 @@
 
   <img width="261" height="386" alt="image" src="https://github.com/user-attachments/assets/383223d0-e88d-490b-8bc5-09e52ac78367" />
 ---
-## BMI Calculator ⚖️
+## 10.BMI Calculator ⚖️
 - A simple Python BMI Calculator built using user input, functions, and math formulas.
 - Takes the user's weight in kilograms and height (supports meters, cm, feet, or inches).
 - Converts the height into meters and calculates BMI = weight / (height²).
