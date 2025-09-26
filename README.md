@@ -1,4 +1,5 @@
 # mini-python-projects
+---
 ## 1.Simple Calculator
 - This is a basic Python program where:
 - You enter two numbers
