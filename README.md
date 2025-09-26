@@ -7,7 +7,7 @@
 - If you try to divide by zero, it shows an error message
 
   <img width="738" height="142" alt="image" src="https://github.com/user-attachments/assets/2d27b043-ab65-4ed7-b7a8-3a1e83cf49a4" />
-
+----
 ## 2.Number Guessing Game
 - This is a simple Python program where:
 - The computer picks a random number between 1 and 100
