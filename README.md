@@ -51,6 +51,7 @@
 - Displays the final score at the end of the quiz.
   
 <img width="503" height="761" alt="image" src="https://github.com/user-attachments/assets/4f2e500e-c15b-4a32-a660-5970c53fee4a" />
+
 ---
 ## 7.Mini Chatbot
 - A basic Python chatbot using dictionaries and conditional logic.
@@ -80,4 +81,4 @@
 - Extra challenge: Keep track of the score and play a best of 5 rounds game
 
   <img width="261" height="386" alt="image" src="https://github.com/user-attachments/assets/383223d0-e88d-490b-8bc5-09e52ac78367" />
----
+  
