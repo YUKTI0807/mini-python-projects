@@ -81,4 +81,13 @@
 - Extra challenge: Keep track of the score and play a best of 5 rounds game
 
   <img width="261" height="386" alt="image" src="https://github.com/user-attachments/assets/383223d0-e88d-490b-8bc5-09e52ac78367" />
-  
+---
+## BMI Calculator ⚖️
+- A simple Python BMI Calculator built using user input, functions, and math formulas.
+- Takes the user's weight in kilograms and height (supports meters, cm, feet, or inches).
+- Converts the height into meters and calculates BMI = weight / (height²).
+- Classifies the result into categories: Underweight, Normal, Overweight, or Obese.
+- Displays the BMI value rounded to two decimal places.
+- Extra challenge: Support combined height input in feet and inches (e.g., 5 feet 7 inches).
+
+  <img width="461" height="210" alt="image" src="https://github.com/user-attachments/assets/12c3938f-129d-49de-9044-0d9bb79034c3" />
