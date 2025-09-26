@@ -5,9 +5,6 @@
 - Choose an operator (+ , - , * , /)
 - The program calculates and shows the result
 - If you try to divide by zero, it shows an error message
-  ## 📂 Project File
-You can find the main Python file here:  
-[Project1.py](Project1.py)
 
   <img width="738" height="142" alt="image" src="https://github.com/user-attachments/assets/2d27b043-ab65-4ed7-b7a8-3a1e83cf49a4" />
 
@@ -74,3 +71,12 @@ You can find the main Python file here:
 
   <img width="398" height="173" alt="image" src="https://github.com/user-attachments/assets/7689074b-bf2d-47a3-8b31-489d52dd285d" />
 
+## 9.Rock Paper Scissors 
+- A simple Python Rock Paper Scissors game built using the random module and conditional statements.
+- Lets the user choose between Rock, Paper, or Scissors
+- Computer picks a random option from the list
+- Compares both choices and decides the winner
+- Announces whether the user wins, loses, or ties
+- Extra challenge: Keep track of the score and play a best of 5 rounds game
+
+  <img width="261" height="386" alt="image" src="https://github.com/user-attachments/assets/383223d0-e88d-490b-8bc5-09e52ac78367" />
